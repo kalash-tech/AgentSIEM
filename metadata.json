@@ -1,0 +1,6 @@
+{
+  "name": "AgentSIEM",
+  "description": "AI agent flight recorder, OpenSearch threat detection guard, and Gemini forensic investigation console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
